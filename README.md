@@ -1,6 +1,68 @@
-# Project GigSync: Next Steps
+# GigSync Driver Co-Pilot
 
-The core application structure, business plan, and technical blueprints are in place. The project is ready for the next phase of development.
+GigSync is an AI-powered driver assistant app designed to help gig-economy drivers maximize their earnings and make smarter decisions on every trip.
+
+## 🚀 Quick Start
+
+### Prerequisites
+- Node.js (v18 or higher)
+- npm (v9 or higher)
+
+### Installation
+
+1. Install dependencies:
+```bash
+npm install
+```
+
+2. Start the development server:
+```bash
+npm run dev
+```
+
+The app will be available at `http://localhost:3000/`
+
+### Building for Production
+
+Build the application for production deployment:
+```bash
+npm run build
+```
+
+The built files will be available in the `dist/` directory.
+
+### Preview Production Build
+
+To preview the production build locally:
+```bash
+npm run preview
+```
+
+## 📱 Features
+
+- **Offer Analyzer**: Instant profit score for delivery offers
+- **Smart Stacker**: Multi-app route optimizer
+- **Earnings Dashboard**: Real-time performance tracking
+- **AI Co-Pilot**: On-demand advice and insights
+- **Mileage Tracker**: Automated GPS-based tracking
+- **Analytics**: Comprehensive earnings and performance analysis
+
+## 📚 Documentation
+
+For more information, see:
+- [Product Blueprint](PRODUCT_BLUEPRINT.md)
+- [Build Plan](BUILD_PLAN.md)
+- [Business Plan](BUSINESS_PLAN.md)
+
+---
+
+## Project Status
+
+The core application structure, business plan, and technical blueprints are in place. The application is now built and ready for the next phase of development.
+
+---
+
+## 🎯 Next Steps
 
 ### Your Move
 
