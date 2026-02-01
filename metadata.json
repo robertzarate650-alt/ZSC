@@ -1,0 +1,9 @@
+{
+  "name": "GigSync Companion",
+  "description": "The ultimate co-pilot for gig drivers. Track earnings, optimize multi-app routes, and analyze offers instantly with AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
